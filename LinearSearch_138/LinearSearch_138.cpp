@@ -1,10 +1,5 @@
-// LinearSearch_138.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include <iostream>
+using namespace std;
 
-int main()
-{
-    std::cout << "Hello World!\n";
-}
+int arr[20];		// Array to be searched
 
