@@ -15,6 +15,8 @@ void input()
 		if ((n > 0) && (n <= 20))
 			break;
 		else
-			
+			cout << "\nArray should have minimum 1 and maksimum 20 element.\n\n";
 	}
+
+
 }
