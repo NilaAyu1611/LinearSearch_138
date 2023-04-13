@@ -36,4 +36,9 @@ void LinearSearch()
 
 	do
 	{
+		// Accept the number to be searched
+		cout << "\nEnter the element you want to search: ";			// Langakah no 1 Algoritma
+		int item;
+		cin >> item;
+
 		
